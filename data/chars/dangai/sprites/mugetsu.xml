@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="mugetsu" width="1953" height="1595">
+    <!-- <SubTexture n="attack">
+        <sprite n="00" x="0" y="0" w="109" h="255"/>
+        <sprite n="01" x="109" y="0" w="401" h="317"/>
+        <sprite n="02" x="510" y="0" w="975" h="440"/>
+        <sprite n="03" x="0" y="440" w="980" h="440"/>
+    </SubTexture>
+
+    <SubTexture n="transform">
+        <sprite n="00" x="980" y="440" w="156" h="92"/>
+        <sprite n="01" x="1136" y="440" w="115" h="93"/>
+        <sprite n="02" x="1251" y="440" w="105" h="21"/>
+        <sprite n="03" x="1356" y="440" w="189" h="19"/>
+        <sprite n="04" x="1545" y="440" w="204" h="30"/>
+        <sprite n="05" x="1749" y="440" w="204" h="35"/>
+        <sprite n="06" x="0" y="880" w="65" h="343"/>
+        <sprite n="07" x="65" y="880" w="102" h="327"/>
+        <sprite n="08" x="167" y="880" w="198" h="365"/>
+        <sprite n="09" x="365" y="880" w="196" h="369"/>
+        <sprite n="10" x="561" y="880" w="152" h="361"/>
+        <sprite n="11" x="713" y="880" w="154" h="347"/>
+        <sprite n="12" x="867" y="880" w="212" h="369"/>
+        <sprite n="13" x="1079" y="880" w="334" h="369"/>
+        <sprite n="14" x="1413" y="880" w="495" h="374"/>
+        <sprite n="15" x="0" y="1254" w="481" h="341"/>
+        <sprite n="16" x="481" y="1254" w="531" h="284"/>
+    </SubTexture> -->
+</TextureAtlas>
